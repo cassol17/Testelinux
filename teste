@@ -1,1 +1,10 @@
 Teste do git remoto
+total 32
+drwxr-xr-x  3 root root 4096 jul 30 19:52 .
+drwxr-xr-x 17 root root 4096 jul 30 19:10 ..
+drwxr-xr-x  8 root root 4096 jul 30 20:09 .git
+-rw-r--r--  1 root root   27 jul 30 19:20 .gitignore
+-rw-r--r--  1 root root  185 jul 30 19:20 hosts
+-rw-r--r--  1 root root 2099 jul 30 19:20 senhas.txt
+-rw-r--r--  1 root root 1094 jul 30 19:20 shadow
+-rw-r--r--  1 root root   20 jul 30 19:52 teste
